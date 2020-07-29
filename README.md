@@ -1,2 +1,4 @@
 # LearnNotes
-自学笔记记录
+BoostNote自学笔记保存
+
+
